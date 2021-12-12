@@ -1,6 +1,6 @@
 # Bully Algorithm Implementation
 ## HEAVILY BASED ON https://github.com/isuruuy429/Masters/tree/master/BullyAlgorithm
-Full credit belongs to the original code creator 
+Full credit belongs to the original code creator \
 Code was modified to support a scenario where coordinator in a cluster crashed, and added some logs and error-handling function
 
 # Setup 
