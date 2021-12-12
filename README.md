@@ -9,7 +9,7 @@ Code was modified to support a scenario where coordinator in a cluster crashed, 
 ```
 consul --version 
 ```
-3. Start the Consul agetn 
+3. Start the Consul agent 
 ```
 consul agent -dev 
 ```
