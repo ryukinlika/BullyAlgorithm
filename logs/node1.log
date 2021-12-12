@@ -1,0 +1,366 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:46:04] "[37mPOST /announce HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:13] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:14] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:16] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mPOST /announce HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:27] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:28] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:28] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:13:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:13:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:13:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:05] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:06] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:06] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:13] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:13] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:19] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:23] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:23] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:25] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:14:26] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:54:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:54:41] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:54:50] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:56:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:56:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:56:57] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:58:31] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:58:33] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:58:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:59:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:59:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:59:42] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:59:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 14:59:57] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:00:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:00:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:00:09] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:00:15] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:00:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:00:25] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:00:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:04:54] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:04:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:05:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:05:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:05:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:05:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:07:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:07:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:07:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:07:53] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:08:05] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:08:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:08:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:08:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:08:25] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:08:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:08:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:08:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:08:51] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:09:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:09:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:09:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:14:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:07] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:10] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:18] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:18] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:23] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:15:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:16:12] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:16:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:16:30] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:31] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:47] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:50] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:54] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:18:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:08] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:15] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:19] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:25] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:29] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:19:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:22:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:22:57] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:22:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:06] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:15] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:50] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:51] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:51] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:23:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:01] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:01] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:28] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:31] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:36] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:38] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:47] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:24:49] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:29:51] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:29:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:29:57] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:29:59] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:30:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:30:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:30:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:30:51] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:30:55] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:31:05] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:34:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:34:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:34:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:34:50] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:34:54] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:34:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:35:02] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:35:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:35:57] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:36:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:36:05] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:36:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:36:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:36:15] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:38:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:38:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:38:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:38:45] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:38:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:38:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:38:56] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:46:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:46:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 15:46:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:14:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:14:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:14:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:14:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:14:19] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:30] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:31] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:36] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:48] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:15:50] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:16:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:16:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:16:20] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:09] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:12] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:17] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:25] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:33] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:50] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:17:54] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:18:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:18:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:18:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:21:28] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:21:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:21:31] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:21:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:21:39] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:21:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:21:46] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:05] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:18] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:36] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:54] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:22:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:27:25] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:27:30] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:27:30] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:27:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:29:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:29:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:29:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:29:09] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:29:12] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:29:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:29:20] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:30:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:30:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:31:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:31:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:31:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:31:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:32:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:32:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:34:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:35:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:35:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:35:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:35:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:35:12] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:35:16] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:36:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:36:12] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:37:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:41:46] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:41:46] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:41:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:41:56] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:41:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:42:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:42:04] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:43:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:43:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:43:13] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:45:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:45:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:45:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:45:50] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:45:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:46:08] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:46:15] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:47:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:47:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:47:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:47:08] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:47:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:47:15] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:47:19] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:48:15] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:48:15] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:48:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:31] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:32] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:32] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:41] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:51] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:53] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:55] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:52:59] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:53:05] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:53:07] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:53:13] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:53:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:53:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:53:55] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:53:55] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:53:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:54:05] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:54:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:57:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:57:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:57:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:57:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:57:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:57:25] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:57:29] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:58:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:58:28] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:58:36] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:58:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 16:58:50] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:02:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:02:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:02:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:09:23] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:09:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:09:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:10:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:10:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:10:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:10:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:10:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:10:52] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:11:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:11:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:11:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:12:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:12:13] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2021 17:12:45] "GET /nodeDetails HTTP/1.1" 200 -
